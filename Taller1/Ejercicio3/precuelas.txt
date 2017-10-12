@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<meta charset="UTF-8"/>
+		<meta name="viewport" content=""/>
+		<title>Trilogia precuelas</title>
+		<meta name="description" content="Sagas II"/>
+		<meta name="keywords" content="wars, original, star, movies"/>
+		<meta name="robots" content=""/>
+		<link rel="stylesheet" href="estilo.css"/>
+	</head>
+	<body>
+		<header>
+			<h1>Trilogia Precuelas</h1>
+			<h2>Episodios</h2>
+			<img src= "precuelasTrilogia.jpg" alt="Precuelas">
+		</header>
+		
+		<section>
+			<article>
+				<h1>Video</h1>
+				<iframe width="560" height="315" src="https://www.youtube.com/embed/t5raMjvT3eQ" frameborder="0" allowfullscreen></iframe>
+				<h4><a href="starwars.html"> Regresar</a></h4>
+			</article>
+		
+		</section>
+	</body>
+	
+	<footer>
+		<p>I am one with the force the force is with me</p>		
+	</footer>
+</html>
